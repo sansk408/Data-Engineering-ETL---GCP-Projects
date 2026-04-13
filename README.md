@@ -1,4 +1,4 @@
- ![image](https://github.com/vedanthv/data-engineering-portfolio/assets/44313631/664c2886-b8d7-41cd-b231-f9f1ca4bbd3e)
+ ![image]![alt text](<ChatGPT Image Apr 12, 2026, 08_44_46 PM.png>)
 
 Hello World! I'm Santhosh. 
 

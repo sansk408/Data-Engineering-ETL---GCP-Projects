@@ -1,12 +1,12 @@
  ![image](https://github.com/vedanthv/data-engineering-portfolio/assets/44313631/664c2886-b8d7-41cd-b231-f9f1ca4bbd3e)
 
-Hello World! I'm Vedanth. 
+Hello World! I'm Santhosh. 
 
 This is a complete portfolio of the projects I have designed with a major focus on implementing various data engineering tech and cloud services.
 
 Feel Free to Connect with me 🤠
 
-**[LinkedIn](https://www.linkedin.com/in/vedanthbaliga/) | [GitHub](https://github.com/vedanthv/)**
+**[LinkedIn](http://www.linkedin.com/in/santhosh-kumar-a490742b9) | [GitHub](https://sansk408.github.io/sansk408/)**
 
 ## Quick Links
 
